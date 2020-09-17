@@ -1,0 +1,17 @@
+body{
+    background-image: url(https://eraseunvangogh.files.wordpress.com/2014/01/degradado-fondo-foros-de-diseo-y-desarrollo-web-hawaii-dermatology-32285.jpg);
+}
+
+.Formulario{    
+    background-image: linear-gradient(rgba(76, 126, 115, 0.666),rgba(255, 255, 255, 0.672));
+    border-radius: 20px;
+    padding: 5%;
+    border: solid rgb(76, 126, 150) 5px;
+    border-block-end-color: rgb(153, 202, 193) ;
+    border-block-start-color: rgb(153, 202, 193);
+    margin-top: 25px;
+}
+
+.boton{
+    background: rgb(76, 126, 150);
+}
